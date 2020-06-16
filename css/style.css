@@ -1024,11 +1024,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 0;
 }
 
-#portfolio .portfolio-item .portfolio-info h4 a {
+#portfolio .portfolio-item .portfolio-info h4 {
   color: #333;
 }
 
-#portfolio .portfolio-item .portfolio-info h4 a:hover {
+#portfolio .portfolio-item .portfolio-info h4:hover {
   color: #18d26e;
 }
 
